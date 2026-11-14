@@ -1,0 +1,18 @@
+{
+  "prefixes": {
+    "SCH": {
+      "date": "2020-08-07",
+      "status": "verified"
+    }
+  },
+  "cards": {
+    "SCH_199": {
+      "date": "2020-07-15",
+      "status": "verified"
+    }
+  },
+  "sources": {
+    "SCH": "https://hearthstone.blizzard.com/ko-kr/news/23463127",
+    "SCH_199": "https://hearthstone.blizzard.com/ko-kr/news/23469099"
+  }
+}

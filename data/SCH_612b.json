@@ -1,1 +1,89 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_612b","dbfId":59544,"name":"숲에 경보를","type":"SPELL","cardClass":"DRUID","collectible":false,"cost":6,"text":"<b>속공</b> 능력이 있는 2/2 나무정령 토템을 넷 소환합니다.\n<b>과부하:</b> (2)","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"NATURE","portrait":"HS20-057.tif:ab1daae2cc5a4d6e80535e9ffa51afa8","set":"SCHOLOMANCE","nativeTags":[{"id":48,"name":"마나 비용","value":6},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":2},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":215,"name":"과부하","value":1},{"id":321,"name":"수집 가능","value":0},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":476,"name":"복수 직업","value":130},{"id":791,"name":"속공","value":1},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":["DRUID","SHAMAN"],"art":"art/SCH_612b.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-057.tif:ab1daae2cc5a4d6e80535e9ffa51afa8","goldenMaterial":"SCH_612b_PremiumCard.mat:21d98b6171fa6ad409ad02f2a29748ab","goldenAnimation":"SCH_612b_PremiumCard.asset:f563577d3c42470408cb72f4e5f01e83"}}
+{
+  "2020-08-07": {
+    "id": "SCH_612b",
+    "dbfId": 59544,
+    "name": "숲에 경보를",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 6,
+    "text": "<b>속공</b> 능력이 있는 2/2 나무정령 토템을 넷 소환합니다.<br></br><b>과부하:</b> (2)",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "NATURE",
+    "portrait": "HS20-057.tif:ab1daae2cc5a4d6e80535e9ffa51afa8",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 6
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 215,
+        "name": "과부하",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 130
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "art": "art/SCH_612b.png"
+  }
+}

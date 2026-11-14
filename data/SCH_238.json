@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_238","dbfId":58979,"name":"사신의 낫","type":"WEAPON","cardClass":"WARRIOR","rarity":"RARE","collectible":true,"cost":4,"text":"<b>주문폭주</b>: \n이번 턴에 내 영웅이 공격하는 대상 양옆의 하수인들에게도 피해를 줍니다.","attack":4,"health":0,"durability":2,"armor":0,"flavor":"죽어. 죽어. 죽어.","spellSchool":"","portrait":"HS20-076.tif:2204a18cfa6944729b946b0069c21223","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1427,"name":"주문폭주","value":1}],"races":[],"race":"","classes":[],"art":"art/SCH_238.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-076.tif:2204a18cfa6944729b946b0069c21223","goldenMaterial":"SCH_238_PremiumCard.mat:7abd4cf51ad54514c9b7962553493968","goldenAnimation":"SCH_238_PremiumCard.asset:212dd7a0bdf77214e84ee7c916bbff00"}}
+{
+  "2020-08-07": {
+    "id": "SCH_238",
+    "dbfId": 58979,
+    "name": "사신의 낫",
+    "type": "WEAPON",
+    "cardClass": "WARRIOR",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>주문폭주</b>: <br></br>이번 턴에 내 영웅이 공격하는 대상 양옆의 하수인들에게도 피해를 줍니다.",
+    "attack": 4,
+    "health": 0,
+    "durability": 2,
+    "armor": 0,
+    "flavor": "죽어. 죽어. 죽어.",
+    "spellSchool": "",
+    "portrait": "HS20-076.tif:2204a18cfa6944729b946b0069c21223",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1427,
+        "name": "주문폭주",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SCH_238.png"
+  }
+}

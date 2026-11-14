@@ -1,1 +1,71 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_703t","dbfId":59890,"name":"해방된 영혼","type":"MINION","cardClass":"WARLOCK","collectible":false,"cost":3,"text":"<b>속공</b>","attack":3,"health":3,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS20-026.tif:50379ba7bcee4678b822be19d607f673","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":476,"name":"복수 직업","value":8448},{"id":791,"name":"속공","value":1}],"races":["UNDEAD"],"race":"언데드","classes":["WARLOCK","DEMONHUNTER"],"art":"art/SCH_703t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-026.tif:50379ba7bcee4678b822be19d607f673","goldenMaterial":"SCH_703t_PremiumCard.mat:8090f61bacbc64b4085d2672d7059f12","goldenAnimation":"SCH_703t_PremiumCard.asset:72fd7224d33ac4842adcaa785da25bbf"}}
+{
+  "2020-08-07": {
+    "id": "SCH_703t",
+    "dbfId": 59890,
+    "name": "해방된 영혼",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "collectible": false,
+    "cost": 3,
+    "text": "<b>속공</b>",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS20-026.tif:50379ba7bcee4678b822be19d607f673",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 8448
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "art": "art/SCH_703t.png"
+  }
+}

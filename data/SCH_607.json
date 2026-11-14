@@ -1,1 +1,90 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_607","dbfId":59457,"name":"샨도 와일드클로","type":"MINION","cardClass":"HUNTER","rarity":"LEGENDARY","collectible":true,"cost":3,"text":"<b>선택 -</b> 내 덱에 있는\n모든 야수에게 +1/+1을\n부여합니다. 또는 아군\n야수로 변신합니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"학위와 더불어 발톱 긁개도 갖추었습니다.","spellSchool":"","portrait":"HS20-123.tif:f8293d23d7ea4493abea60b65fea1eec","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":443,"name":"선택","value":1},{"id":476,"name":"복수 직업","value":6}],"races":[],"race":"","classes":["DRUID","HUNTER"],"art":"art/SCH_607.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-123.tif:f8293d23d7ea4493abea60b65fea1eec","goldenMaterial":"SCH_607_PremiumCard.mat:25475736de0b710459d9ce1e3f69cacc","goldenAnimation":"SCH_607_PremiumCard.asset:78046548b1f25f242aa6a71f2e8ba553"}}
+{
+  "2020-08-07": {
+    "id": "SCH_607",
+    "dbfId": 59457,
+    "name": "샨도 와일드클로",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>선택 -</b> 내 덱에 있는<br></br>모든 야수에게 +1/+1을<br></br>부여합니다. 또는 아군<br></br>야수로 변신합니다.",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "학위와 더불어 발톱 긁개도 갖추었습니다.",
+    "spellSchool": "",
+    "portrait": "HS20-123.tif:f8293d23d7ea4493abea60b65fea1eec",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 443,
+        "name": "선택",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 6
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "art": "art/SCH_607.png"
+  }
+}

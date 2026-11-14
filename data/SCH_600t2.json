@@ -1,1 +1,81 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_600t2","dbfId":59392,"name":"샤미","type":"MINION","cardClass":"DEMONHUNTER","collectible":false,"cost":1,"text":"<b>도발</b>","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS20-042.tif:21acdce709ee458b91662e7b137309cf","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":476,"name":"복수 직업","value":8196}],"races":["DEMON"],"race":"악마","classes":["HUNTER","DEMONHUNTER"],"art":"art/SCH_600t2.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-042.tif:21acdce709ee458b91662e7b137309cf","goldenMaterial":"SCH_600t2_PremiumCard.mat:87c7ddd2516b38940a7a1c2e486ccd76","goldenAnimation":"SCH_600t2_PremiumCard.asset:3be69878ea264244d80bb7b1d52a39d4"}}
+{
+  "2020-08-07": {
+    "id": "SCH_600t2",
+    "dbfId": 59392,
+    "name": "샤미",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "collectible": false,
+    "cost": 1,
+    "text": "<b>도발</b>",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS20-042.tif:21acdce709ee458b91662e7b137309cf",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 8196
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "art": "art/SCH_600t2.png"
+  }
+}

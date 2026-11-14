@@ -1,1 +1,79 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_340","dbfId":59188,"name":"불어오른 비단뱀","type":"MINION","cardClass":"HUNTER","rarity":"RARE","collectible":true,"cost":3,"text":"<b>죽음의 메아리:</b> 4/4 불운한 조련사를 소환합니다.","attack":1,"health":2,"durability":0,"armor":0,"flavor":"스칼로맨스 공학계 학생들이 파이썬을 기피하는 이유입니다.","spellSchool":"","portrait":"HS20-119.tif:ab1098c886414bedaa30e1b3462f2aff","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":3},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":217,"name":"죽음의 메아리","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":61173}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/SCH_340.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-119.tif:ab1098c886414bedaa30e1b3462f2aff","goldenMaterial":"SCH_340_PremiumCard.mat:4cebc932887213043b9774163755b439","goldenAnimation":"SCH_340_PremiumCard.asset:c2c6ea3b267a8bb4a9009285ba32a07a"}}
+{
+  "2020-08-07": {
+    "id": "SCH_340",
+    "dbfId": 59188,
+    "name": "불어오른 비단뱀",
+    "type": "MINION",
+    "cardClass": "HUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "<b>죽음의 메아리:</b> 4/4 불운한 조련사를 소환합니다.",
+    "attack": 1,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "스칼로맨스 공학계 학생들이 파이썬을 기피하는 이유입니다.",
+    "spellSchool": "",
+    "portrait": "HS20-119.tif:ab1098c886414bedaa30e1b3462f2aff",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 217,
+        "name": "죽음의 메아리",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 61173
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/SCH_340.png"
+  }
+}

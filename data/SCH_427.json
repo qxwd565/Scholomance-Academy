@@ -1,1 +1,65 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_427","dbfId":60016,"name":"번개 개화","type":"SPELL","cardClass":"DRUID","rarity":"COMMON","collectible":true,"cost":0,"text":"마나 수정을\n2개 회복합니다.\n<b>과부하:</b> (2)","attack":0,"health":0,"durability":0,"armor":0,"flavor":"신기하게도, 이 꽃은 같은 곳에서 두 번 피지 않는다고 합니다.","spellSchool":"NATURE","portrait":"HS20-053.tif:15ae1b455d5343bfabffba31ddd04d41","set":"SCHOLOMANCE","nativeTags":[{"id":199,"name":"직업","value":2},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":215,"name":"과부하","value":1},{"id":321,"name":"수집 가능","value":1},{"id":476,"name":"복수 직업","value":130},{"id":1635,"name":"주문 속성","value":4}],"races":[],"race":"","classes":["DRUID","SHAMAN"],"art":"art/SCH_427.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-053.tif:15ae1b455d5343bfabffba31ddd04d41","goldenMaterial":"SCH_427_PremiumCard.mat:a962d3b4af9634e47acfa4e14506274e","goldenAnimation":"SCH_427_PremiumCard.asset:48390bd2373fd3d478529ebea3525d6d"}}
+{
+  "2020-08-07": {
+    "id": "SCH_427",
+    "dbfId": 60016,
+    "name": "번개 개화",
+    "type": "SPELL",
+    "cardClass": "DRUID",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 0,
+    "text": "마나 수정을<br></br>2개 회복합니다.<br></br><b>과부하:</b> (2)",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "신기하게도, 이 꽃은 같은 곳에서 두 번 피지 않는다고 합니다.",
+    "spellSchool": "NATURE",
+    "portrait": "HS20-053.tif:15ae1b455d5343bfabffba31ddd04d41",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 215,
+        "name": "과부하",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 130
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 4
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "art": "art/SCH_427.png"
+  }
+}

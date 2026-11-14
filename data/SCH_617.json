@@ -1,1 +1,75 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_617","dbfId":59705,"name":"깜찍한 침략","type":"SPELL","cardClass":"HUNTER","rarity":"COMMON","collectible":true,"cost":1,"text":"하수인에게 +1/+1을\n부여합니다. 1/1 새끼 야수를\n소환합니다. 새끼 야수를\n내 손으로 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"강력한 성능을 뽐내는 카드도 있지만, 애정을 담아 쓰는 카드들도 있답니다.","spellSchool":"","portrait":"HS20-049.tif:1ffd7f0b530644bdafd3e5af7019cc9e","set":"SCHOLOMANCE","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":3},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":476,"name":"복수 직업","value":6},{"id":1452,"name":"수집품 관련 카드 데이터베이스 ID","value":59706}],"races":[],"race":"","classes":["DRUID","HUNTER"],"art":"art/SCH_617.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-049.tif:1ffd7f0b530644bdafd3e5af7019cc9e","goldenMaterial":"SCH_617_PremiumCard.mat:72728b6d55cb21243a5a484d35a753e3","goldenAnimation":"SCH_617_PremiumCard.asset:9ea0e8dc1414c2f408b9164cffc54fa9"}}
+{
+  "2020-08-07": {
+    "id": "SCH_617",
+    "dbfId": 59705,
+    "name": "깜찍한 침략",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "하수인에게 +1/+1을<br></br>부여합니다. 1/1 새끼 야수를<br></br>소환합니다. 새끼 야수를<br></br>내 손으로 가져옵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "강력한 성능을 뽐내는 카드도 있지만, 애정을 담아 쓰는 카드들도 있답니다.",
+    "spellSchool": "",
+    "portrait": "HS20-049.tif:1ffd7f0b530644bdafd3e5af7019cc9e",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 6
+      },
+      {
+        "id": 1452,
+        "name": "수집품 관련 카드 데이터베이스 ID",
+        "value": 59706
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "art": "art/SCH_617.png"
+  }
+}

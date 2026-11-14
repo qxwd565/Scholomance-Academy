@@ -1,1 +1,58 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_147t","dbfId":60256,"name":"뼈그물 거미","type":"MINION","cardClass":"WARLOCK","collectible":false,"cost":1,"text":"","attack":2,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS20-018.tif:763306d21d39411287f6ebbdf2ac3163","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":9},{"id":200,"name":"종족","value":20},{"id":202,"name":"카드 유형","value":4}],"races":["BEAST"],"race":"야수","classes":[],"art":"art/SCH_147t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-018.tif:763306d21d39411287f6ebbdf2ac3163","goldenMaterial":"SCH_147t_PremiumCard.mat:1aa2afcc67bc3f049b1a71f311cf9233","goldenAnimation":"SCH_147t_PremiumCard.asset:2bed5bbbe49176046ad3710b49d3c076"}}
+{
+  "2020-08-07": {
+    "id": "SCH_147t",
+    "dbfId": 60256,
+    "name": "뼈그물 거미",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 2,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS20-018.tif:763306d21d39411287f6ebbdf2ac3163",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 20
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "BEAST"
+    ],
+    "race": "야수",
+    "classes": [],
+    "art": "art/SCH_147t.png"
+  }
+}

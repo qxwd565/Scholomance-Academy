@@ -1,1 +1,68 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_253t","dbfId":60279,"name":"복수의 영혼","type":"MINION","cardClass":"DEMONHUNTER","collectible":false,"cost":3,"text":"","attack":3,"health":3,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS20-035.tif:73c4e4140b0549599f669969679a80ae","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":3},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":321,"name":"수집 가능","value":0}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/SCH_253t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-035.tif:73c4e4140b0549599f669969679a80ae","goldenMaterial":"SCH_253t_PremiumCard.mat:9145e3eeef2c74c4b90524d028092171","goldenAnimation":"SCH_253t_PremiumCard.asset:8cb84be20c0f49e4dadf4245f7893a83"}}
+{
+  "2020-08-07": {
+    "id": "SCH_253t",
+    "dbfId": 60279,
+    "name": "복수의 영혼",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "collectible": false,
+    "cost": 3,
+    "text": "",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS20-035.tif:73c4e4140b0549599f669969679a80ae",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [],
+    "art": "art/SCH_253t.png"
+  }
+}

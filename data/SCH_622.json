@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_622","dbfId":59989,"name":"자동 연마 검","type":"WEAPON","cardClass":"ROGUE","rarity":"RARE","collectible":true,"cost":3,"text":"내 영웅이 공격한 후에, 공격력을\n+1 얻습니다.","attack":1,"health":0,"durability":4,"armor":0,"flavor":"이제 시험장에 여분의 검을 가져오지 않아도 됩니다.","spellSchool":"","portrait":"HS20-141.tif:5c500beb611c46b2bdec816afe0909ed","set":"SCHOLOMANCE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/SCH_622.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-141.tif:5c500beb611c46b2bdec816afe0909ed","goldenMaterial":"SCH_622_PremiumCard.mat:4a212be68a421d146904673e7c62a131","goldenAnimation":"SCH_622_PremiumCard.asset:8121519aa6ede3b41a626e6929508da7"}}
+{
+  "2020-08-07": {
+    "id": "SCH_622",
+    "dbfId": 59989,
+    "name": "자동 연마 검",
+    "type": "WEAPON",
+    "cardClass": "ROGUE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "내 영웅이 공격한 후에, 공격력을<br></br>+1 얻습니다.",
+    "attack": 1,
+    "health": 0,
+    "durability": 4,
+    "armor": 0,
+    "flavor": "이제 시험장에 여분의 검을 가져오지 않아도 됩니다.",
+    "spellSchool": "",
+    "portrait": "HS20-141.tif:5c500beb611c46b2bdec816afe0909ed",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SCH_622.png"
+  }
+}

@@ -1,1 +1,52 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_247","dbfId":59038,"name":"등교 첫날","type":"SPELL","cardClass":"PALADIN","rarity":"COMMON","collectible":true,"cost":1,"text":"비용이 1인 무작위 하수인 둘을\n내 손으로 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"책은 서점에서 사고, 물약은 연금술사한테서 사고, 그리고 마법봉은... 봉부상한테서?\"","spellSchool":"","portrait":"HS20-008.tif:8363d5828a9445f7b77c3064818a23bc","set":"SCHOLOMANCE","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/SCH_247.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-008.tif:8363d5828a9445f7b77c3064818a23bc","goldenMaterial":"SCH_247_PremiumCard.mat:b379ef45523a11b4c8c0006d0f7e66b4","goldenAnimation":"SCH_247_PremiumCard.asset:c5a8433b1b09a9748adf2476970498c5"}}
+{
+  "2020-08-07": {
+    "id": "SCH_247",
+    "dbfId": 59038,
+    "name": "등교 첫날",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "비용이 1인 무작위 하수인 둘을<br></br>내 손으로 가져옵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"책은 서점에서 사고, 물약은 연금술사한테서 사고, 그리고 마법봉은... 봉부상한테서?\"",
+    "spellSchool": "",
+    "portrait": "HS20-008.tif:8363d5828a9445f7b77c3064818a23bc",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SCH_247.png"
+  }
+}

@@ -1,1 +1,85 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_425","dbfId":59690,"name":"의사 크라스티노브","type":"MINION","cardClass":"NEUTRAL","rarity":"LEGENDARY","collectible":true,"cost":5,"text":"<b>속공</b>, 이 하수인이\n공격할 때마다 내 무기에\n+1/+1을 부여합니다.","attack":4,"health":4,"durability":0,"armor":0,"flavor":"\"의사가 왔도다!\"","spellSchool":"","portrait":"HS20-075.tif:5221b548abba40b5ac29f45ec3ca6106","set":"SCHOLOMANCE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":5},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":321,"name":"수집 가능","value":1},{"id":476,"name":"복수 직업","value":576},{"id":791,"name":"속공","value":1}],"races":[],"race":"","classes":["ROGUE","WARRIOR"],"art":"art/SCH_425.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-075.tif:5221b548abba40b5ac29f45ec3ca6106","goldenMaterial":"SCH_425_PremiumCard.mat:3846bc9b94ef8d441b9dc114a80059ef","goldenAnimation":"SCH_425_PremiumCard.asset:5b9afbdbb1cbd1748b6468cb52665b78"}}
+{
+  "2020-08-07": {
+    "id": "SCH_425",
+    "dbfId": 59690,
+    "name": "의사 크라스티노브",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 5,
+    "text": "<b>속공</b>, 이 하수인이<br></br>공격할 때마다 내 무기에<br></br>+1/+1을 부여합니다.",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"의사가 왔도다!\"",
+    "spellSchool": "",
+    "portrait": "HS20-075.tif:5221b548abba40b5ac29f45ec3ca6106",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 5
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 576
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "ROGUE",
+      "WARRIOR"
+    ],
+    "art": "art/SCH_425.png"
+  }
+}

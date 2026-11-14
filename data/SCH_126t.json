@@ -1,1 +1,66 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_126t","dbfId":61092,"name":"낙제한 학생","type":"MINION","cardClass":"PRIEST","collectible":false,"cost":4,"text":"","attack":4,"health":4,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS20-112.tif:2dec37ac9d7f45b6af0d2c88d52c8a77","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":476,"name":"복수 직업","value":288}],"races":["UNDEAD"],"race":"언데드","classes":["PRIEST","WARLOCK"],"art":"art/SCH_126t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-112.tif:2dec37ac9d7f45b6af0d2c88d52c8a77","goldenMaterial":"SCH_126t_PremiumCard.mat:a27a2e5327a13c84b94c9fff19231dbf","goldenAnimation":"SCH_126t_PremiumCard.asset:e78d5a6e365480242a07ba5a6b3c96fe"}}
+{
+  "2020-08-07": {
+    "id": "SCH_126t",
+    "dbfId": 61092,
+    "name": "낙제한 학생",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "collectible": false,
+    "cost": 4,
+    "text": "",
+    "attack": 4,
+    "health": 4,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS20-112.tif:2dec37ac9d7f45b6af0d2c88d52c8a77",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 288
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "art": "art/SCH_126t.png"
+  }
+}

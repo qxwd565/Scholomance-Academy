@@ -1,1 +1,76 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_612t","dbfId":59552,"name":"나무정령 토템","type":"MINION","cardClass":"DRUID","collectible":false,"cost":1,"text":"","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS20-165.tif:4d1e784074aa4c9aad8aedfdf0e642f4","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":2},{"id":200,"name":"종족","value":21},{"id":202,"name":"카드 유형","value":4},{"id":476,"name":"복수 직업","value":130},{"id":2831,"name":"게임 태그 2831","value":1}],"races":["TOTEM"],"race":"토템","classes":["DRUID","SHAMAN"],"art":"art/SCH_612t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-165.tif:4d1e784074aa4c9aad8aedfdf0e642f4","goldenMaterial":"SCH_612t_PremiumCard.mat:c219e560771399a4ba6af7e1d150717b","goldenAnimation":"SCH_612t_PremiumCard.asset:2c5bf9e178f9c1b409608076656ce3e7"}}
+{
+  "2020-08-07": {
+    "id": "SCH_612t",
+    "dbfId": 59552,
+    "name": "나무정령 토템",
+    "type": "MINION",
+    "cardClass": "DRUID",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS20-165.tif:4d1e784074aa4c9aad8aedfdf0e642f4",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 2
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 21
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 130
+      },
+      {
+        "id": 2831,
+        "name": "게임 태그 2831",
+        "value": 1
+      }
+    ],
+    "races": [
+      "TOTEM"
+    ],
+    "race": "토템",
+    "classes": [
+      "DRUID",
+      "SHAMAN"
+    ],
+    "art": "art/SCH_612t.png"
+  }
+}

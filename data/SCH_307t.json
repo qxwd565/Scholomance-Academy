@@ -1,1 +1,54 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_307t","dbfId":59723,"name":"영혼 파편","type":"SPELL","cardClass":"WARLOCK","collectible":false,"cost":0,"text":"<b>뽑을 때 시전</b>\n내 영웅의 생명력을\n#2 회복시킵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"SHADOW","portrait":"HS20-004.tif:505c16b613c74f54a4f4f1795837c37c","set":"SCHOLOMANCE","nativeTags":[{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":476,"name":"복수 직업","value":8448},{"id":1077,"name":"뽑을 때 시전","value":1},{"id":1635,"name":"주문 속성","value":6}],"races":[],"race":"","classes":["WARLOCK","DEMONHUNTER"],"art":"art/SCH_307t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-004.tif:505c16b613c74f54a4f4f1795837c37c","goldenMaterial":"SCH_307t_PremiumCard.mat:8ab56f55fcd5b6242890f965895339a7","goldenAnimation":"SCH_307t_PremiumCard.asset:5ec60f41c8f6aea438a5c105c5d4d614"}}
+{
+  "2020-08-07": {
+    "id": "SCH_307t",
+    "dbfId": 59723,
+    "name": "영혼 파편",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "collectible": false,
+    "cost": 0,
+    "text": "<b>뽑을 때 시전</b><br></br>내 영웅의 생명력을<br></br>#2 회복시킵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "SHADOW",
+    "portrait": "HS20-004.tif:505c16b613c74f54a4f4f1795837c37c",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 8448
+      },
+      {
+        "id": 1077,
+        "name": "뽑을 때 시전",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 6
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "art": "art/SCH_307t.png"
+  }
+}

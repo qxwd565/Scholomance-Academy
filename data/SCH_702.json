@@ -1,1 +1,70 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_702","dbfId":59726,"name":"지옥 철학","type":"SPELL","cardClass":"WARLOCK","rarity":"EPIC","collectible":true,"cost":1,"text":"내 손에 있는 가장 낮은\n비용의 악마를 복사합니다.\n<b>추방자:</b> 두 하수인 모두에게\n+1/+1을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"“사악하다는 건 결국 주관적인 게 아닐까요?”","spellSchool":"FEL","portrait":"HS20-024.tif:056ddedbb301468e9e9294d9b53f4dd4","set":"SCHOLOMANCE","nativeTags":[{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":476,"name":"복수 직업","value":8448},{"id":1333,"name":"추방자","value":1},{"id":1635,"name":"주문 속성","value":7}],"races":[],"race":"","classes":["WARLOCK","DEMONHUNTER"],"art":"art/SCH_702.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-024.tif:056ddedbb301468e9e9294d9b53f4dd4","goldenMaterial":"SCH_702_PremiumCard.mat:c564520b0d9e63845bd7c03913f31637","goldenAnimation":"SCH_702_PremiumCard.asset:c6398352d05683d43b2c599a32de95ff"}}
+{
+  "2020-08-07": {
+    "id": "SCH_702",
+    "dbfId": 59726,
+    "name": "지옥 철학",
+    "type": "SPELL",
+    "cardClass": "WARLOCK",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 1,
+    "text": "내 손에 있는 가장 낮은<br></br>비용의 악마를 복사합니다.<br></br><b>추방자:</b> 두 하수인 모두에게<br></br>+1/+1을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "“사악하다는 건 결국 주관적인 게 아닐까요?”",
+    "spellSchool": "FEL",
+    "portrait": "HS20-024.tif:056ddedbb301468e9e9294d9b53f4dd4",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 8448
+      },
+      {
+        "id": 1333,
+        "name": "추방자",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 7
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "art": "art/SCH_702.png"
+  }
+}

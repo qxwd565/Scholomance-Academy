@@ -1,1 +1,77 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_140","dbfId":59585,"name":"살덩이 거인","type":"MINION","cardClass":"PRIEST","rarity":"EPIC","collectible":true,"cost":10,"text":"내 턴 동안 내 영웅의 생명력이 바뀔 때마다 비용이 (1)씩 감소합니다.","attack":8,"health":8,"durability":0,"armor":0,"flavor":"정말 커다란 실수로군요.","spellSchool":"","portrait":"HS20-110.tif:72f0cf813d6a433e8daf08fe2e172082","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":8},{"id":47,"name":"공격력","value":8},{"id":48,"name":"마나 비용","value":10},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":476,"name":"복수 직업","value":288}],"races":["UNDEAD"],"race":"언데드","classes":["PRIEST","WARLOCK"],"art":"art/SCH_140.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-110.tif:72f0cf813d6a433e8daf08fe2e172082","goldenMaterial":"SCH_140_PremiumCard.mat:92597d346f2830749b2a5d40375311b8","goldenAnimation":"SCH_140_PremiumCard.asset:4c495768ba5d3694787f7486b7dc178a"}}
+{
+  "2020-08-07": {
+    "id": "SCH_140",
+    "dbfId": 59585,
+    "name": "살덩이 거인",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 10,
+    "text": "내 턴 동안 내 영웅의 생명력이 바뀔 때마다 비용이 (1)씩 감소합니다.",
+    "attack": 8,
+    "health": 8,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "정말 커다란 실수로군요.",
+    "spellSchool": "",
+    "portrait": "HS20-110.tif:72f0cf813d6a433e8daf08fe2e172082",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 8
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 8
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 10
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 288
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "art": "art/SCH_140.png"
+  }
+}

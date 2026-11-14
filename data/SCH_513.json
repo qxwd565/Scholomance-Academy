@@ -1,1 +1,82 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_513","dbfId":59222,"name":"약골 파괴자","type":"MINION","cardClass":"PRIEST","rarity":"RARE","collectible":true,"cost":4,"text":"<b>전투의 함성:</b>\n이번 턴에 내 영웅의\n생명력이 바뀌었다면,\n하수인을 처치합니다.","attack":3,"health":3,"durability":0,"armor":0,"flavor":"연기 수업에서 골 때리는 역할을 많이 맡았습니다.","spellSchool":"","portrait":"HS20-109.tif:a038ed0b9e7b4d088453bc009f2289c2","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":3},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":6},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":3},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":476,"name":"복수 직업","value":288}],"races":["UNDEAD"],"race":"언데드","classes":["PRIEST","WARLOCK"],"art":"art/SCH_513.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-109.tif:a038ed0b9e7b4d088453bc009f2289c2","goldenMaterial":"SCH_513_PremiumCard.mat:a7c4f8328bbffff40bc0dc0cd2318eb7","goldenAnimation":"SCH_513_PremiumCard.asset:9e2282ae7fcb0a44f8625bf149bb0c31"}}
+{
+  "2020-08-07": {
+    "id": "SCH_513",
+    "dbfId": 59222,
+    "name": "약골 파괴자",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>전투의 함성:</b><br></br>이번 턴에 내 영웅의<br></br>생명력이 바뀌었다면,<br></br>하수인을 처치합니다.",
+    "attack": 3,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "연기 수업에서 골 때리는 역할을 많이 맡았습니다.",
+    "spellSchool": "",
+    "portrait": "HS20-109.tif:a038ed0b9e7b4d088453bc009f2289c2",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 3
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 288
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [
+      "PRIEST",
+      "WARLOCK"
+    ],
+    "art": "art/SCH_513.png"
+  }
+}

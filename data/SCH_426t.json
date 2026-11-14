@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_426t","dbfId":60409,"name":"포세이큰 릴리안","type":"MINION","cardClass":"ROGUE","collectible":false,"cost":4,"text":"","attack":4,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS20-144.tif:01088cf22a284ee3a6031d278f3bdcb5","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":7},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/SCH_426t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-144.tif:01088cf22a284ee3a6031d278f3bdcb5","goldenMaterial":"SCH_426t_PremiumCard.mat:08714f3dff7f3a74fb65738fa8791fe7","goldenAnimation":"SCH_426t_PremiumCard.asset:85253506a295b434fa1fae1958f869c5"}}
+{
+  "2020-08-07": {
+    "id": "SCH_426t",
+    "dbfId": 60409,
+    "name": "포세이큰 릴리안",
+    "type": "MINION",
+    "cardClass": "ROGUE",
+    "collectible": false,
+    "cost": 4,
+    "text": "",
+    "attack": 4,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS20-144.tif:01088cf22a284ee3a6031d278f3bdcb5",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [],
+    "art": "art/SCH_426t.png"
+  }
+}

@@ -1,1 +1,69 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_607b","dbfId":59898,"name":"무리 결집","type":"SPELL","cardClass":"HUNTER","collectible":false,"cost":3,"text":"내 덱에 있는 모든 야수에게 +1/+1을 부여합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS20-125.tif:0e1902cab28244c3b88446788dcfff9c","set":"SCHOLOMANCE","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":3},{"id":201,"name":"진영","value":3},{"id":202,"name":"카드 유형","value":5},{"id":240,"name":"면역","value":1},{"id":330,"name":"효과 생성 시각 효과","value":0},{"id":331,"name":"효과 지속 시각 효과","value":0},{"id":476,"name":"복수 직업","value":6}],"races":[],"race":"","classes":["DRUID","HUNTER"],"art":"art/SCH_607b.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-125.tif:0e1902cab28244c3b88446788dcfff9c","goldenMaterial":"SCH_607b_PremiumCard.mat:b3ff81b93e0ca5448b4d84332e2adb0e","goldenAnimation":"SCH_607b_PremiumCard.asset:ed6c44441155b414b95b59d945aa53ec"}}
+{
+  "2020-08-07": {
+    "id": "SCH_607b",
+    "dbfId": 59898,
+    "name": "무리 결집",
+    "type": "SPELL",
+    "cardClass": "HUNTER",
+    "collectible": false,
+    "cost": 3,
+    "text": "내 덱에 있는 모든 야수에게 +1/+1을 부여합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS20-125.tif:0e1902cab28244c3b88446788dcfff9c",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 3
+      },
+      {
+        "id": 201,
+        "name": "진영",
+        "value": 3
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 240,
+        "name": "면역",
+        "value": 1
+      },
+      {
+        "id": 330,
+        "name": "효과 생성 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 331,
+        "name": "효과 지속 시각 효과",
+        "value": 0
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 6
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "DRUID",
+      "HUNTER"
+    ],
+    "art": "art/SCH_607b.png"
+  }
+}

@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_356","dbfId":60153,"name":"활공","type":"SPELL","cardClass":"DEMONHUNTER","rarity":"RARE","collectible":true,"cost":4,"text":"내 손에 있는 모든 카드를\n내 덱에 섞어 넣습니다.\n카드를 4장 뽑습니다.\n<b>추방자:</b> 상대편에게도 적용됩니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"\"날 믿으면 같은 패를 다시 뽑는 놀라운 일을 보여줄게.\"","spellSchool":"","portrait":"HS20-115.tif:f7dc0e66bb7e4c0b8913c5d02e617b6b","set":"SCHOLOMANCE","nativeTags":[{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1333,"name":"추방자","value":1}],"races":[],"race":"","classes":[],"art":"art/SCH_356.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-115.tif:f7dc0e66bb7e4c0b8913c5d02e617b6b","goldenMaterial":"SCH_356_PremiumCard.mat:0660529c11394c640b2d1169876796b6","goldenAnimation":"SCH_356_PremiumCard.asset:debfdf1d38d70084d9e77b975444d3d4"}}
+{
+  "2020-08-07": {
+    "id": "SCH_356",
+    "dbfId": 60153,
+    "name": "활공",
+    "type": "SPELL",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 4,
+    "text": "내 손에 있는 모든 카드를<br></br>내 덱에 섞어 넣습니다.<br></br>카드를 4장 뽑습니다.<br></br><b>추방자:</b> 상대편에게도 적용됩니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"날 믿으면 같은 패를 다시 뽑는 놀라운 일을 보여줄게.\"",
+    "spellSchool": "",
+    "portrait": "HS20-115.tif:f7dc0e66bb7e4c0b8913c5d02e617b6b",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1333,
+        "name": "추방자",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SCH_356.png"
+  }
+}

@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_525","dbfId":59410,"name":"진형 구축!","type":"SPELL","cardClass":"WARRIOR","rarity":"COMMON","collectible":true,"cost":2,"text":"무작위 <b>도발</b> 하수인 둘을 내 손으로 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"그 누구도 스칼로맨스 학생들의 강력함을 의심하지 않습니다.","spellSchool":"","portrait":"HS20-167.tif:6df5f1140e9a4bce914f9a48ff28edb4","set":"SCHOLOMANCE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":10},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/SCH_525.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-167.tif:6df5f1140e9a4bce914f9a48ff28edb4","goldenMaterial":"SCH_525_PremiumCard.mat:74b9b2d21705b0c48a6e33ba21c19fb0","goldenAnimation":"SCH_525_PremiumCard.asset:0d8087b1bab40f643b5bf06bcbc5c323"}}
+{
+  "2020-08-07": {
+    "id": "SCH_525",
+    "dbfId": 59410,
+    "name": "진형 구축!",
+    "type": "SPELL",
+    "cardClass": "WARRIOR",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "무작위 <b>도발</b> 하수인 둘을 내 손으로 가져옵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "그 누구도 스칼로맨스 학생들의 강력함을 의심하지 않습니다.",
+    "spellSchool": "",
+    "portrait": "HS20-167.tif:6df5f1140e9a4bce914f9a48ff28edb4",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 10
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SCH_525.png"
+  }
+}

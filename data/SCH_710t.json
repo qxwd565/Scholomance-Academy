@@ -1,1 +1,63 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_710t","dbfId":59919,"name":"되살아난 해골","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":2,"text":"<b>도발</b>","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS20-091.tif:ffc572ab41e646638c93e0fbba2aa06b","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":11},{"id":202,"name":"카드 유형","value":4}],"races":["UNDEAD"],"race":"언데드","classes":[],"art":"art/SCH_710t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-091.tif:ffc572ab41e646638c93e0fbba2aa06b","goldenMaterial":"SCH_710t_PremiumCard.mat:85a7416d44f0eba47bb4121abe9fdf51","goldenAnimation":"SCH_710t_PremiumCard.asset:cb7677651e79b06488f24172d6c59408"}}
+{
+  "2020-08-07": {
+    "id": "SCH_710t",
+    "dbfId": 59919,
+    "name": "되살아난 해골",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>도발</b>",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS20-091.tif:ffc572ab41e646638c93e0fbba2aa06b",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 11
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      }
+    ],
+    "races": [
+      "UNDEAD"
+    ],
+    "race": "언데드",
+    "classes": [],
+    "art": "art/SCH_710t.png"
+  }
+}

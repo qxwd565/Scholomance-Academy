@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_353","dbfId":59639,"name":"벼락치기","type":"SPELL","cardClass":"MAGE","rarity":"RARE","collectible":true,"cost":2,"text":"카드를 $1장 뽑습니다.\n<i>(<b>주문 공격력</b>에 따라\n뽑는 카드 수 증가)</i>","attack":0,"health":0,"durability":0,"armor":0,"flavor":"비전의 샘은 무한에 가까운 힘과 마력을 제공합니다! 그래도 졸음은 해결하지 못하게 때문에 여전히 커피를 마시죠.","spellSchool":"ARCANE","portrait":"HS20-066.tif:accf1d37489b42b89de16f5c13bd7f7d","set":"SCHOLOMANCE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":192,"name":"주문 공격력","value":1},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":1635,"name":"주문 속성","value":1}],"races":[],"race":"","classes":[],"art":"art/SCH_353.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-066.tif:accf1d37489b42b89de16f5c13bd7f7d","goldenMaterial":"SCH_353_PremiumCard.mat:1668b925b65496c47b31b9c33e2535f3","goldenAnimation":"SCH_353_PremiumCard.asset:84413099a6f86e4479cbdc55409cd28f"}}
+{
+  "2020-08-07": {
+    "id": "SCH_353",
+    "dbfId": 59639,
+    "name": "벼락치기",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 2,
+    "text": "카드를 $1장 뽑습니다.<br></br><i>(<b>주문 공격력</b>에 따라<br></br>뽑는 카드 수 증가)</i>",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "비전의 샘은 무한에 가까운 힘과 마력을 제공합니다! 그래도 졸음은 해결하지 못하게 때문에 여전히 커피를 마시죠.",
+    "spellSchool": "ARCANE",
+    "portrait": "HS20-066.tif:accf1d37489b42b89de16f5c13bd7f7d",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 192,
+        "name": "주문 공격력",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SCH_353.png"
+  }
+}

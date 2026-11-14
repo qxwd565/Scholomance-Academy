@@ -1,1 +1,90 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_703","dbfId":59727,"name":"영혼학자 말리시아","type":"MINION","cardClass":"WARLOCK","rarity":"LEGENDARY","collectible":true,"cost":7,"text":"<b>전투의 함성:</b> 내 덱에 있는 영혼 파편 하나당 <b>속공</b> 능력이 있는 3/3 영혼을 소환합니다.","attack":5,"health":5,"durability":0,"armor":0,"flavor":"당신 목숨이 소중하다면 이 학문을 \"유사 과학\"이라 부르지 마십시오.","spellSchool":"","portrait":"HS20-025.tif:abe9acf5818e42a2926ece8fee0a03a1","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":5},{"id":47,"name":"공격력","value":5},{"id":48,"name":"마나 비용","value":7},{"id":114,"name":"전설 속성","value":1},{"id":199,"name":"직업","value":9},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":5},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":476,"name":"복수 직업","value":8448},{"id":791,"name":"속공","value":1},{"id":2165,"name":"게임 태그 2165","value":1}],"races":[],"race":"","classes":["WARLOCK","DEMONHUNTER"],"art":"art/SCH_703.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-025.tif:abe9acf5818e42a2926ece8fee0a03a1","goldenMaterial":"SCH_703_PremiumCard.mat:33903d3aecb2db240bbdd0db5fa307db","goldenAnimation":"SCH_703_PremiumCard.asset:d3e472d8f377e8343b8020b01ac0ce96"}}
+{
+  "2020-08-07": {
+    "id": "SCH_703",
+    "dbfId": 59727,
+    "name": "영혼학자 말리시아",
+    "type": "MINION",
+    "cardClass": "WARLOCK",
+    "rarity": "LEGENDARY",
+    "collectible": true,
+    "cost": 7,
+    "text": "<b>전투의 함성:</b> 내 덱에 있는 영혼 파편 하나당 <b>속공</b> 능력이 있는 3/3 영혼을 소환합니다.",
+    "attack": 5,
+    "health": 5,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "당신 목숨이 소중하다면 이 학문을 \"유사 과학\"이라 부르지 마십시오.",
+    "spellSchool": "",
+    "portrait": "HS20-025.tif:abe9acf5818e42a2926ece8fee0a03a1",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 5
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 5
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 7
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 9
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 5
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 8448
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 2165,
+        "name": "게임 태그 2165",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "WARLOCK",
+      "DEMONHUNTER"
+    ],
+    "art": "art/SCH_703.png"
+  }
+}

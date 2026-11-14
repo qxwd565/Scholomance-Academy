@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_120","dbfId":59619,"name":"비밀결사단 수행사제","type":"MINION","cardClass":"PRIEST","rarity":"EPIC","collectible":true,"cost":4,"text":"<b>도발</b>, <b>주문폭주:</b>\n공격력이 2 이하인 무작위 적 하수인을 가져옵니다.","attack":2,"health":6,"durability":0,"armor":0,"flavor":"학년에서 제일 우수한 학생이 된 비법이 뭐냐고요? 손을 잘 썼을 뿐입니다.","spellSchool":"","portrait":"HS20-106.tif:a8c7b584c6854f8f97aaf2cd43132e84","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":6},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":4},{"id":190,"name":"도발","value":1},{"id":199,"name":"직업","value":6},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":1427,"name":"주문폭주","value":1}],"races":[],"race":"","classes":[],"art":"art/SCH_120.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-106.tif:a8c7b584c6854f8f97aaf2cd43132e84","goldenMaterial":"SCH_120_PremiumCard.mat:620ce34732bb8bb43bd5c9e7c3be9f52","goldenAnimation":"SCH_120_PremiumCard.asset:21fdae1b37a1254419a8b86eef7c2486"}}
+{
+  "2020-08-07": {
+    "id": "SCH_120",
+    "dbfId": 59619,
+    "name": "비밀결사단 수행사제",
+    "type": "MINION",
+    "cardClass": "PRIEST",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 4,
+    "text": "<b>도발</b>, <b>주문폭주:</b><br></br>공격력이 2 이하인 무작위 적 하수인을 가져옵니다.",
+    "attack": 2,
+    "health": 6,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "학년에서 제일 우수한 학생이 된 비법이 뭐냐고요? 손을 잘 썼을 뿐입니다.",
+    "spellSchool": "",
+    "portrait": "HS20-106.tif:a8c7b584c6854f8f97aaf2cd43132e84",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 6
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 190,
+        "name": "도발",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 6
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1427,
+        "name": "주문폭주",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SCH_120.png"
+  }
+}

@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_199t22","dbfId":60591,"name":"편입생","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":false,"cost":2,"text":"2턴 동안 <b>휴면</b> 상태입니다. 깨어나면, 무작위 적 하수인 둘에게 피해를 3 줍니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS20-163.tif:84b1a0519ad944109afccb5cb400244f","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":1518,"name":"휴면","value":1},{"id":1652,"name":"게임 태그 1652","value":1}],"races":[],"race":"","classes":[],"art":"art/SCH_199t22.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-163.tif:84b1a0519ad944109afccb5cb400244f","goldenMaterial":"SCH_199_PremiumCard.mat:de60b4bb6febf824eae24843b5e1e964","goldenAnimation":"SCH_199_PremiumCard.asset:516dead0412e5b743bfbc18bbfbcc514"}}
+{
+  "2020-08-07": {
+    "id": "SCH_199t22",
+    "dbfId": 60591,
+    "name": "편입생",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": false,
+    "cost": 2,
+    "text": "2턴 동안 <b>휴면</b> 상태입니다. 깨어나면, 무작위 적 하수인 둘에게 피해를 3 줍니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS20-163.tif:84b1a0519ad944109afccb5cb400244f",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 1518,
+        "name": "휴면",
+        "value": 1
+      },
+      {
+        "id": 1652,
+        "name": "게임 태그 1652",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SCH_199t22.png"
+  }
+}

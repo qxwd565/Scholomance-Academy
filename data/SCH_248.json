@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_248","dbfId":59039,"name":"깃펜 장난꾼","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>전투의 함성:</b>\n하수인에게 피해를 1 줍니다. <b>주문폭주:</b> 이 하수인을 내 손으로 다시 가져옵니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"깃펜이 칼보다 근거리 투사체로서 더 강하긴 하죠.","spellSchool":"","portrait":"HS20-094.tif:1ed9a91d9f354945b9aac6d57afa5f02","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":1427,"name":"주문폭주","value":1}],"races":[],"race":"","classes":[],"art":"art/SCH_248.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-094.tif:1ed9a91d9f354945b9aac6d57afa5f02","goldenMaterial":"SCH_248_PremiumCard.mat:7fd5bcbcef6a344458a0d7ca93e999cc","goldenAnimation":"SCH_248_PremiumCard.asset:202f0615cb07e64409d8f47f08ee3bad"}}
+{
+  "2020-08-07": {
+    "id": "SCH_248",
+    "dbfId": 59039,
+    "name": "깃펜 장난꾼",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b><br></br>하수인에게 피해를 1 줍니다. <b>주문폭주:</b> 이 하수인을 내 손으로 다시 가져옵니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "깃펜이 칼보다 근거리 투사체로서 더 강하긴 하죠.",
+    "spellSchool": "",
+    "portrait": "HS20-094.tif:1ed9a91d9f354945b9aac6d57afa5f02",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 1427,
+        "name": "주문폭주",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SCH_248.png"
+  }
+}

@@ -1,1 +1,69 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_707t","dbfId":59912,"name":"유령 비행사","type":"MINION","cardClass":"NEUTRAL","collectible":false,"cost":4,"text":"<b>속공</b>","attack":4,"health":3,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS20-086.tif:4af2abcaa7b047068e5ba856bec1c96f","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":3},{"id":47,"name":"공격력","value":4},{"id":48,"name":"마나 비용","value":4},{"id":199,"name":"직업","value":12},{"id":200,"name":"종족","value":14},{"id":202,"name":"카드 유형","value":4},{"id":791,"name":"속공","value":1},{"id":2534,"name":"게임 태그 2534","value":1}],"races":["UNDEAD","MURLOC"],"race":"언데드, 멀록","classes":[],"art":"art/SCH_707t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-086.tif:4af2abcaa7b047068e5ba856bec1c96f","goldenMaterial":"SCH_707t_PremiumCard.mat:f92586c9ea7e88d4da5a1d56bb6b69c2","goldenAnimation":""}}
+{
+  "2020-08-07": {
+    "id": "SCH_707t",
+    "dbfId": 59912,
+    "name": "유령 비행사",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "collectible": false,
+    "cost": 4,
+    "text": "<b>속공</b>",
+    "attack": 4,
+    "health": 3,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS20-086.tif:4af2abcaa7b047068e5ba856bec1c96f",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 3
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 4
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 4
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      },
+      {
+        "id": 2534,
+        "name": "게임 태그 2534",
+        "value": 1
+      }
+    ],
+    "races": [
+      "UNDEAD",
+      "MURLOC"
+    ],
+    "race": "언데드, 멀록",
+    "classes": [],
+    "art": "art/SCH_707t.png"
+  }
+}

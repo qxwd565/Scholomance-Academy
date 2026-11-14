@@ -1,1 +1,72 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_311","dbfId":59029,"name":"살아 움직이는 빗자루","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>속공</b>, <b>전투의 함성:</b>\n내 다른 하수인들에게\n<b>속공</b>을 부여합니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"\"저 빗자루 봤어? 날쌘구름 1000이야!\"","spellSchool":"","portrait":"HS20-084.tif:35c9c4d2b38743a9af64c89e46583cbe","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1},{"id":791,"name":"속공","value":1}],"races":[],"race":"","classes":[],"art":"art/SCH_311.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-084.tif:35c9c4d2b38743a9af64c89e46583cbe","goldenMaterial":"SCH_311_PremiumCard.mat:d59145fb55d301045ac2c46316bb8290","goldenAnimation":"SCH_311_PremiumCard.asset:b7c86957a24b75f498cfa9ccf06cd10f"}}
+{
+  "2020-08-07": {
+    "id": "SCH_311",
+    "dbfId": 59029,
+    "name": "살아 움직이는 빗자루",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>속공</b>, <b>전투의 함성:</b><br></br>내 다른 하수인들에게<br></br><b>속공</b>을 부여합니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"저 빗자루 봤어? 날쌘구름 1000이야!\"",
+    "spellSchool": "",
+    "portrait": "HS20-084.tif:35c9c4d2b38743a9af64c89e46583cbe",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 791,
+        "name": "속공",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SCH_311.png"
+  }
+}

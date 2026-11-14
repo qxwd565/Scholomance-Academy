@@ -1,1 +1,70 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_302","dbfId":58791,"name":"광휘의 선물","type":"SPELL","cardClass":"PALADIN","rarity":"RARE","collectible":true,"cost":3,"text":"하수인에게\n<b>천상의 보호막</b>을 부여한 후,\n그 하수인을 복사하여\n1/1 하수인으로 소환합니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"이 순간을 기념하기 위해 이 안에 조그마한 당신의 모형을 넣었습니다.","spellSchool":"HOLY","portrait":"HS20-011.tif:669fcec2c5df411b9cea6d3e32b2ffa5","set":"SCHOLOMANCE","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":194,"name":"천상의 보호막","value":1},{"id":199,"name":"직업","value":5},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":3},{"id":321,"name":"수집 가능","value":1},{"id":476,"name":"복수 직업","value":48},{"id":1635,"name":"주문 속성","value":5}],"races":[],"race":"","classes":["PALADIN","PRIEST"],"art":"art/SCH_302.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-011.tif:669fcec2c5df411b9cea6d3e32b2ffa5","goldenMaterial":"SCH_302_PremiumCard.mat:9999ee8495447b247a13a0e99efcfb92","goldenAnimation":"SCH_302_PremiumCard.asset:43941a06b42813240acdf3c251ff1f32"}}
+{
+  "2020-08-07": {
+    "id": "SCH_302",
+    "dbfId": 58791,
+    "name": "광휘의 선물",
+    "type": "SPELL",
+    "cardClass": "PALADIN",
+    "rarity": "RARE",
+    "collectible": true,
+    "cost": 3,
+    "text": "하수인에게<br></br><b>천상의 보호막</b>을 부여한 후,<br></br>그 하수인을 복사하여<br></br>1/1 하수인으로 소환합니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "이 순간을 기념하기 위해 이 안에 조그마한 당신의 모형을 넣었습니다.",
+    "spellSchool": "HOLY",
+    "portrait": "HS20-011.tif:669fcec2c5df411b9cea6d3e32b2ffa5",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 194,
+        "name": "천상의 보호막",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 5
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 3
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 48
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 5
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "PALADIN",
+      "PRIEST"
+    ],
+    "art": "art/SCH_302.png"
+  }
+}

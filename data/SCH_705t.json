@@ -1,1 +1,68 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_705t","dbfId":59754,"name":"으르렁대는 썩은마귀","type":"MINION","cardClass":"DEMONHUNTER","collectible":false,"cost":1,"text":"","attack":1,"health":1,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS20-029.tif:37d8a60bc7a24164a88e3fef6e72a392","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":114,"name":"전설 속성","value":0},{"id":199,"name":"직업","value":14},{"id":200,"name":"종족","value":15},{"id":202,"name":"카드 유형","value":4},{"id":321,"name":"수집 가능","value":0}],"races":["DEMON"],"race":"악마","classes":[],"art":"art/SCH_705t.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-029.tif:37d8a60bc7a24164a88e3fef6e72a392","goldenMaterial":"SCH_705t_PremiumCard.mat:b5477d19ae1b1e94fb475eca6a3512fc","goldenAnimation":"SCH_705t_PremiumCard.asset:51728622ed5bacb4781e84eeb2a4ab61"}}
+{
+  "2020-08-07": {
+    "id": "SCH_705t",
+    "dbfId": 59754,
+    "name": "으르렁대는 썩은마귀",
+    "type": "MINION",
+    "cardClass": "DEMONHUNTER",
+    "collectible": false,
+    "cost": 1,
+    "text": "",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS20-029.tif:37d8a60bc7a24164a88e3fef6e72a392",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 114,
+        "name": "전설 속성",
+        "value": 0
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 200,
+        "name": "종족",
+        "value": 15
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 0
+      }
+    ],
+    "races": [
+      "DEMON"
+    ],
+    "race": "악마",
+    "classes": [],
+    "art": "art/SCH_705t.png"
+  }
+}

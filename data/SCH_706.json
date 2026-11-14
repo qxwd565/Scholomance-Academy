@@ -1,1 +1,57 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_706","dbfId":59877,"name":"표절","type":"SPELL","cardClass":"ROGUE","rarity":"COMMON","collectible":true,"cost":2,"text":"<b>비밀:</b> 상대편의 턴이 끝날 때, 상대편이 낸 카드들을 복사하여 내 손으로 가져옵니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"잘 베끼는 것도 실력입니다.","spellSchool":"","portrait":"HS20-070.tif:061098c9460e49bfb94d0c5a4f427513","set":"SCHOLOMANCE","nativeTags":[{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":7},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":1},{"id":219,"name":"비밀","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/SCH_706.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-070.tif:061098c9460e49bfb94d0c5a4f427513","goldenMaterial":"SCH_706_PremiumCard.mat:233b66eb1f268fc43926b7798c506ef3","goldenAnimation":"SCH_706_PremiumCard.asset:8bb941f9bf5aa954abb0c4be9f1b654d"}}
+{
+  "2020-08-07": {
+    "id": "SCH_706",
+    "dbfId": 59877,
+    "name": "표절",
+    "type": "SPELL",
+    "cardClass": "ROGUE",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 2,
+    "text": "<b>비밀:</b> 상대편의 턴이 끝날 때, 상대편이 낸 카드들을 복사하여 내 손으로 가져옵니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "잘 베끼는 것도 실력입니다.",
+    "spellSchool": "",
+    "portrait": "HS20-070.tif:061098c9460e49bfb94d0c5a4f427513",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 7
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 219,
+        "name": "비밀",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SCH_706.png"
+  }
+}

@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_199t26","dbfId":64306,"name":"편입생","type":"MINION","cardClass":"NEUTRAL","rarity":"EPIC","collectible":false,"cost":2,"text":"<b>타락:</b> +2/+2를 얻습니다.","attack":2,"health":2,"durability":0,"armor":0,"flavor":"","spellSchool":"","portrait":"HS20-163.tif:84b1a0519ad944109afccb5cb400244f","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":2},{"id":47,"name":"공격력","value":2},{"id":48,"name":"마나 비용","value":2},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":4},{"id":1524,"name":"타락","value":1},{"id":1719,"name":"변신 원본 시각 효과","value":1}],"races":[],"race":"","classes":[],"art":"art/SCH_199t26.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-163.tif:84b1a0519ad944109afccb5cb400244f","goldenMaterial":"SCH_199_PremiumCard.mat:de60b4bb6febf824eae24843b5e1e964","goldenAnimation":"SCH_199_PremiumCard.asset:516dead0412e5b743bfbc18bbfbcc514"}}
+{
+  "2020-08-07": {
+    "id": "SCH_199t26",
+    "dbfId": 64306,
+    "name": "편입생",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "EPIC",
+    "collectible": false,
+    "cost": 2,
+    "text": "<b>타락:</b> +2/+2를 얻습니다.",
+    "attack": 2,
+    "health": 2,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "",
+    "spellSchool": "",
+    "portrait": "HS20-163.tif:84b1a0519ad944109afccb5cb400244f",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 2
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 2
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 2
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 1524,
+        "name": "타락",
+        "value": 1
+      },
+      {
+        "id": 1719,
+        "name": "변신 원본 시각 효과",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SCH_199t26.png"
+  }
+}

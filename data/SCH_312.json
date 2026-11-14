@@ -1,1 +1,67 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_312","dbfId":59035,"name":"견학 안내자","type":"MINION","cardClass":"NEUTRAL","rarity":"COMMON","collectible":true,"cost":1,"text":"<b>전투의 함성:</b>\n내 다음 영웅 능력의\n비용이 (0)이 됩니다.","attack":1,"health":1,"durability":0,"armor":0,"flavor":"\"이것은 학원의 설계 도면입니다! 어두운 방이라 표시된 곳은 신경 쓰지 마세요... 가장 마지막에 들를 테니까요.\"","spellSchool":"","portrait":"HS20-155.tif:12f3e3b49909459090d4245899258ec2","set":"SCHOLOMANCE","nativeTags":[{"id":45,"name":"생명력","value":1},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":12},{"id":202,"name":"카드 유형","value":4},{"id":203,"name":"희귀도","value":1},{"id":218,"name":"전투의 함성","value":1},{"id":321,"name":"수집 가능","value":1}],"races":[],"race":"","classes":[],"art":"art/SCH_312.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-155.tif:12f3e3b49909459090d4245899258ec2","goldenMaterial":"SCH_312_PremiumCard.mat:f2482a1cf384d35418155c27d2f9f2b3","goldenAnimation":"SCH_312_PremiumCard.asset:b5bde1a6de0b692458e033b3352c50a3"}}
+{
+  "2020-08-07": {
+    "id": "SCH_312",
+    "dbfId": 59035,
+    "name": "견학 안내자",
+    "type": "MINION",
+    "cardClass": "NEUTRAL",
+    "rarity": "COMMON",
+    "collectible": true,
+    "cost": 1,
+    "text": "<b>전투의 함성:</b><br></br>내 다음 영웅 능력의<br></br>비용이 (0)이 됩니다.",
+    "attack": 1,
+    "health": 1,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "\"이것은 학원의 설계 도면입니다! 어두운 방이라 표시된 곳은 신경 쓰지 마세요... 가장 마지막에 들를 테니까요.\"",
+    "spellSchool": "",
+    "portrait": "HS20-155.tif:12f3e3b49909459090d4245899258ec2",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 1
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 12
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 4
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 1
+      },
+      {
+        "id": 218,
+        "name": "전투의 함성",
+        "value": 1
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SCH_312.png"
+  }
+}

@@ -1,1 +1,62 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_348","dbfId":59540,"name":"발화","type":"SPELL","cardClass":"MAGE","rarity":"EPIC","collectible":true,"cost":3,"text":"하수인에게 피해를\n$4 줍니다. 초과한 피해량만큼 양옆의 하수인들에게\n피해를 줍니다.","attack":0,"health":0,"durability":0,"armor":0,"flavor":"샐리는 한 줄로 서 있는 은빛 성기사단 신병 셋과 친구다. 이 주문을 시전한 후 남아있는 샐리의 친구 수를 구하시오. (풀이 과정을 상세히 적으시오.)","spellSchool":"FIRE","portrait":"HS20-171.tif:9c519488718c414d858ac2da954a2614","set":"SCHOLOMANCE","nativeTags":[{"id":48,"name":"마나 비용","value":3},{"id":199,"name":"직업","value":4},{"id":202,"name":"카드 유형","value":5},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":349,"name":"게임 태그 349","value":1},{"id":1635,"name":"주문 속성","value":2}],"races":[],"race":"","classes":[],"art":"art/SCH_348.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-171.tif:9c519488718c414d858ac2da954a2614","goldenMaterial":"SCH_348_PremiumCard.mat:e7307fd3c6448424196731e92162f6c8","goldenAnimation":"SCH_348_PremiumCard.asset:c1b1d9cb2ef4ccc4a87aab07b9a4eeb5"}}
+{
+  "2020-08-07": {
+    "id": "SCH_348",
+    "dbfId": 59540,
+    "name": "발화",
+    "type": "SPELL",
+    "cardClass": "MAGE",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 3,
+    "text": "하수인에게 피해를<br></br>$4 줍니다. 초과한 피해량만큼 양옆의 하수인들에게<br></br>피해를 줍니다.",
+    "attack": 0,
+    "health": 0,
+    "durability": 0,
+    "armor": 0,
+    "flavor": "샐리는 한 줄로 서 있는 은빛 성기사단 신병 셋과 친구다. 이 주문을 시전한 후 남아있는 샐리의 친구 수를 구하시오. (풀이 과정을 상세히 적으시오.)",
+    "spellSchool": "FIRE",
+    "portrait": "HS20-171.tif:9c519488718c414d858ac2da954a2614",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 3
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 4
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 5
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 349,
+        "name": "게임 태그 349",
+        "value": 1
+      },
+      {
+        "id": 1635,
+        "name": "주문 속성",
+        "value": 2
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [],
+    "art": "art/SCH_348.png"
+  }
+}

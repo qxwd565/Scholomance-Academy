@@ -1,1 +1,75 @@
-{"schemaVersion":1,"mode":"constructed","card":{"id":"SCH_279","dbfId":59233,"name":"정조준 초승달궁","type":"WEAPON","cardClass":"DEMONHUNTER","rarity":"EPIC","collectible":true,"cost":1,"text":"내 영웅이 하수인을\n공격한 후에, 아군\n하수인들도 그 하수인을\n공격합니다.","attack":1,"health":0,"durability":4,"armor":0,"flavor":"좋게 손으로 가리켰으면 어디 덧나나요.","spellSchool":"","portrait":"HS20-044.tif:3ed6d0230ca6429899c4ca4ed7f19d5f","set":"SCHOLOMANCE","nativeTags":[{"id":32,"name":"발동 효과 표시","value":1},{"id":45,"name":"생명력","value":4},{"id":47,"name":"공격력","value":1},{"id":48,"name":"마나 비용","value":1},{"id":199,"name":"직업","value":14},{"id":202,"name":"카드 유형","value":7},{"id":203,"name":"희귀도","value":4},{"id":321,"name":"수집 가능","value":1},{"id":476,"name":"복수 직업","value":8196}],"races":[],"race":"","classes":["HUNTER","DEMONHUNTER"],"art":"art/SCH_279.png"},"artworkProvenance":{"source":"installed Hearthstone native assets","portrait":"HS20-044.tif:3ed6d0230ca6429899c4ca4ed7f19d5f","goldenMaterial":"SCH_279_PremiumCard.mat:831268f04758cdf47ba721b74a829a1d","goldenAnimation":"SCH_279_PremiumCard.asset:160298f85cf2f234ea7af28e2a883443"}}
+{
+  "2020-08-07": {
+    "id": "SCH_279",
+    "dbfId": 59233,
+    "name": "정조준 초승달궁",
+    "type": "WEAPON",
+    "cardClass": "DEMONHUNTER",
+    "rarity": "EPIC",
+    "collectible": true,
+    "cost": 1,
+    "text": "내 영웅이 하수인을<br></br>공격한 후에, 아군<br></br>하수인들도 그 하수인을<br></br>공격합니다.",
+    "attack": 1,
+    "health": 0,
+    "durability": 4,
+    "armor": 0,
+    "flavor": "좋게 손으로 가리켰으면 어디 덧나나요.",
+    "spellSchool": "",
+    "portrait": "HS20-044.tif:3ed6d0230ca6429899c4ca4ed7f19d5f",
+    "set": "SCHOLOMANCE",
+    "nativeTags": [
+      {
+        "id": 32,
+        "name": "발동 효과 표시",
+        "value": 1
+      },
+      {
+        "id": 45,
+        "name": "생명력",
+        "value": 4
+      },
+      {
+        "id": 47,
+        "name": "공격력",
+        "value": 1
+      },
+      {
+        "id": 48,
+        "name": "마나 비용",
+        "value": 1
+      },
+      {
+        "id": 199,
+        "name": "직업",
+        "value": 14
+      },
+      {
+        "id": 202,
+        "name": "카드 유형",
+        "value": 7
+      },
+      {
+        "id": 203,
+        "name": "희귀도",
+        "value": 4
+      },
+      {
+        "id": 321,
+        "name": "수집 가능",
+        "value": 1
+      },
+      {
+        "id": 476,
+        "name": "복수 직업",
+        "value": 8196
+      }
+    ],
+    "races": [],
+    "race": "",
+    "classes": [
+      "HUNTER",
+      "DEMONHUNTER"
+    ],
+    "art": "art/SCH_279.png"
+  }
+}

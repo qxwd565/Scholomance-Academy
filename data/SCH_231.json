@@ -11,57 +11,6 @@
     "text": "<b>주문폭주:</b><br></br>공격력을 +2 얻습니다.",
     "attack": 1,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "뉴턴과 사과처럼.",
-    "spellSchool": "",
-    "portrait": "HS20-082.tif:e7b677f730034f3f932c364f4f1b5757",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1427,
-        "name": "주문폭주",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_231.png"
+    "classes": []
   }
 }

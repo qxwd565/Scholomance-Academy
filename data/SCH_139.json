@@ -11,70 +11,9 @@
     "text": "<b>천상의 보호막</b>, <b>도발</b>, 이번<br></br>게임에서 내가 내 캐릭터에게<br></br>시전한 주문 하나당 비용이<br></br>(1)씩 감소합니다.",
     "attack": 4,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "교과서를 성서처럼 여깁니다.",
-    "spellSchool": "",
-    "portrait": "HS20-013.tif:fcf1eb9275d14c9a85e147d918dc8a63",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 194,
-        "name": "천상의 보호막",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 48
-      }
-    ],
-    "races": [],
-    "race": "",
     "classes": [
       "PALADIN",
       "PRIEST"
-    ],
-    "art": "art/SCH_139.png"
+    ]
   }
 }

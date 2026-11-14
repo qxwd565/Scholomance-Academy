@@ -11,57 +11,6 @@
     "text": "<b>주문폭주:</b><br></br>모든 적 하수인에게<br></br>4의 피해를 무작위로 나누어 입힙니다.",
     "attack": 3,
     "health": 4,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "생각만 해도 뜨거워집니다.",
-    "spellSchool": "",
-    "portrait": "HS20-065.tif:9b92b307186541bb8d676b722f853787",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1427,
-        "name": "주문폭주",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_241.png"
+    "classes": []
   }
 }

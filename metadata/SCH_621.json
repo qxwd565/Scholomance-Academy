@@ -1,0 +1,72 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "SCH_621",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-08-07",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-08-07": {
+        "flavor": "지금은 흉측하지만 20/20 때는 꽤 잘생긴 하수인이었습니다.",
+        "portrait": "HS20-078.tif:a6ae4f2567ab48898a279fb129d6015f",
+        "set": "SCHOLOMANCE",
+        "nativeTags": [
+          {
+            "id": 45,
+            "name": "생명력",
+            "value": 9
+          },
+          {
+            "id": 47,
+            "name": "공격력",
+            "value": 9
+          },
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 9
+          },
+          {
+            "id": 114,
+            "name": "전설 속성",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 10
+          },
+          {
+            "id": 200,
+            "name": "종족",
+            "value": 11
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 4
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 5
+          },
+          {
+            "id": 217,
+            "name": "죽음의 메아리",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          }
+        ],
+        "art": "art/SCH_621.png"
+      }
+    }
+  }
+}

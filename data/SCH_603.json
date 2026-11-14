@@ -11,62 +11,6 @@
     "text": "<b>추방자:</b> 상대편의 손에 있는<br></br>카드 3장을 봅니다.<br></br>그중 한 장을 상대편의<br></br>덱에 섞어 넣습니다.",
     "attack": 4,
     "health": 3,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "잘 속이는 것도 실력입니다.",
-    "spellSchool": "",
-    "portrait": "HS20-116.tif:54676ccffb74449ea4520edaa0f18509",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1333,
-        "name": "추방자",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_603.png"
+    "classes": []
   }
 }

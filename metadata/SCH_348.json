@@ -1,0 +1,57 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "SCH_348",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-08-07",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-08-07": {
+        "flavor": "샐리는 한 줄로 서 있는 은빛 성기사단 신병 셋과 친구다. 이 주문을 시전한 후 남아있는 샐리의 친구 수를 구하시오. (풀이 과정을 상세히 적으시오.)",
+        "portrait": "HS20-171.tif:9c519488718c414d858ac2da954a2614",
+        "set": "SCHOLOMANCE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 3
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 4
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 4
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 349,
+            "name": "게임 태그 349",
+            "value": 1
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 2
+          }
+        ],
+        "art": "art/SCH_348.png"
+      }
+    }
+  }
+}

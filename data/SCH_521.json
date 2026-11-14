@@ -9,57 +9,9 @@
     "collectible": true,
     "cost": 3,
     "text": "피해를 받은 하수인을 처치합니다.<br></br><b>연계:</b> 하수인을 처치합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"점심 사먹을 돈을 내놓지 않는다면 이 샌드위치에게 무슨 일이 생길지 알고 있겠지!\"",
-    "spellSchool": "",
-    "portrait": "HS20-073.tif:e76030e7bda2472b85dc74bbe80c618c",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 220,
-        "name": "연계",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 576
-      }
-    ],
-    "races": [],
-    "race": "",
     "classes": [
       "ROGUE",
       "WARRIOR"
-    ],
-    "art": "art/SCH_521.png"
+    ]
   }
 }

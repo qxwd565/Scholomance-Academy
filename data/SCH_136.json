@@ -9,44 +9,6 @@
     "collectible": true,
     "cost": 2,
     "text": "하수인에게 +2/+2를 부여합니다. 이번 턴이 끝날 때, 그 하수인의 생명력을 모두 회복시킵니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "세계에서 인정받는 명문 강의를 듣기 위해 온 이들이 있는가 하면, 뷔페식 학식을 먹으러 온 이들도 있습니다.",
-    "spellSchool": "",
-    "portrait": "HS20-014.tif:e9dbd6470ed1485cba7296e58254cd78",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_136.png"
+    "classes": []
   }
 }

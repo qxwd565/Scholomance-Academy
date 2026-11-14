@@ -11,67 +11,6 @@
     "text": "<b>전투의 함성</b>: 다음 턴에 상대편이 시전하는 주문의 비용이 (1) 증가합니다.",
     "attack": 3,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "새로운 신자의 부족함을 효율적으로 이용합니다.",
-    "spellSchool": "",
-    "portrait": "HS20-006.tif:c2174c5550e44b4c8364a7b7c498b2d2",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 4533,
-        "name": "제작 결과 능력",
-        "value": 1
-      },
-      {
-        "id": 4548,
-        "name": "게임 태그 4548",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_713.png"
+    "classes": []
   }
 }

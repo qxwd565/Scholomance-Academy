@@ -11,62 +11,6 @@
     "text": "<b>천상의 보호막</b>, <b>주문폭주:</b> <b>천상의 보호막</b>을 얻습니다.",
     "attack": 4,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "이건 내 방패야. 이거랑 똑같이 생긴 방패가 하나 더 있는데, 그것도 내 거야.",
-    "spellSchool": "",
-    "portrait": "HS20-009.tif:47d7dc5b17584e2e871e549131cff27e",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 194,
-        "name": "천상의 보호막",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1427,
-        "name": "주문폭주",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_532.png"
+    "classes": []
   }
 }

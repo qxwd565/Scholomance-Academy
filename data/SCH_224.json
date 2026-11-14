@@ -11,62 +11,6 @@
     "text": "<b>주문폭주:</b> 주문으로 하수인을 처치하면<br></br>그 하수인을 소환합니다.",
     "attack": 4,
     "health": 6,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"비법을 알려달라고? 로브 소매에 참치 조각을 갖고 다니지. 그 친구가 잘 따라오거든. 아, 죽은 자를 되살리는 것? 그건 별 거 없다만.\"",
-    "spellSchool": "",
-    "portrait": "HS20-099.tif:2553476a4cfa4f3aad4df564c11411c3",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1427,
-        "name": "주문폭주",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_224.png"
+    "classes": []
   }
 }

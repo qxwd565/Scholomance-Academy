@@ -9,59 +9,7 @@
     "collectible": true,
     "cost": 1,
     "text": "악마를 <b>발견</b>합니다.<br></br>내 다음 악마의 비용이<br></br>(1) 감소합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"악마가 필요해? 나도 필요해!\"",
     "spellSchool": "SHADOW",
-    "portrait": "HS20-114.tif:93f51357a1c44e809084b67f0a5bdf72",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 415,
-        "name": "발견",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      },
-      {
-        "id": 1650,
-        "name": "연구 발견 시각 효과",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_158.png"
+    "classes": []
   }
 }

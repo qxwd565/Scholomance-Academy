@@ -9,67 +9,10 @@
     "collectible": true,
     "cost": 1,
     "text": "하수인을 <b>빙결</b><br></br>상태로 만듭니다.<br></br><b>연계:</b> 그 하수인에게 피해도 $3 줍니다. ",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"교수님이 갑자기 부르셔서 꽁꽁 얼어붙고 말았어!\"",
     "spellSchool": "FROST",
-    "portrait": "HS20-139.tif:802d74bf2f71466c9276e749c5db93a0",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 208,
-        "name": "빙결",
-        "value": 1
-      },
-      {
-        "id": 220,
-        "name": "연계",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 72
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 3
-      }
-    ],
-    "races": [],
-    "race": "",
     "classes": [
       "MAGE",
       "ROGUE"
-    ],
-    "art": "art/SCH_509.png"
+    ]
   }
 }

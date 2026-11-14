@@ -9,57 +9,10 @@
     "collectible": true,
     "cost": 4,
     "text": "아군 하수인들을 1/1 하수인으로 복사하여<br></br>내 손으로 가져옵니다. <br></br>그 하수인들의<br></br>비용이 (1)이 됩니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "안타깝게도 이 병 속 수많은 얼굴들을 본 눈은 어떤 물약으로도 정화할 수 없습니다.",
     "spellSchool": "ARCANE",
-    "portrait": "HS20-140.tif:ffe29bf4ed954ba9a5f63057e953a7e2",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 72
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
     "classes": [
       "MAGE",
       "ROGUE"
-    ],
-    "art": "art/SCH_352.png"
+    ]
   }
 }

@@ -9,49 +9,7 @@
     "collectible": true,
     "cost": 6,
     "text": "하수인에게 피해를 $4 줍니다. 그 하수인이 죽으면,<br></br>그 하수인을 새로 복사하여 소환합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "멀록이 스칼로맨스에서 졸업하기 위해 통과해야 하는 절차입니다.",
     "spellSchool": "SHADOW",
-    "portrait": "HS20-107.tif:db074b0ad87a4f1482d00bdea1d5a66f",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_512.png"
+    "classes": []
   }
 }

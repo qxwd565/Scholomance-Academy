@@ -11,64 +11,10 @@
     "text": "<b>주문폭주:</b> 내 직업의<br></br>무작위 주문 둘을<br></br>내 손으로 가져옵니다.",
     "attack": 4,
     "health": 9,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "때로는 주문을 써야 주문을 얻을 수 있기 마련입니다.",
-    "spellSchool": "",
-    "portrait": "HS20-083.tif:3086dd7bccbb45b1b514f9002a3677fa",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 9
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 6
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 24
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1427,
-        "name": "주문폭주",
-        "value": 1
-      }
-    ],
     "races": [
       "DRAGON"
     ],
     "race": "용족",
-    "classes": [],
-    "art": "art/SCH_230.png"
+    "classes": []
   }
 }

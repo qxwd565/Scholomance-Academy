@@ -1,0 +1,72 @@
+{
+  "schema": "hscard-date-metadata-1",
+  "id": "SCH_270",
+  "timezone": "Asia/Seoul",
+  "release": {
+    "date": "2020-08-07",
+    "status": "unverified"
+  },
+  "baselineStatus": "partially-verified",
+  "normalization": {
+    "datedExcludedFields": {
+      "2020-08-07": {
+        "flavor": "매우 오래 전에 잊힌 고서로서 마력이 뿜어져 나옴. 40 가루. 중고.",
+        "portrait": "HS20-135.tif:a22a957e3f7b497f8cbc8caba898d739",
+        "set": "SCHOLOMANCE",
+        "nativeTags": [
+          {
+            "id": 48,
+            "name": "마나 비용",
+            "value": 1
+          },
+          {
+            "id": 192,
+            "name": "주문 공격력",
+            "value": 1
+          },
+          {
+            "id": 199,
+            "name": "직업",
+            "value": 12
+          },
+          {
+            "id": 202,
+            "name": "카드 유형",
+            "value": 5
+          },
+          {
+            "id": 203,
+            "name": "희귀도",
+            "value": 1
+          },
+          {
+            "id": 321,
+            "name": "수집 가능",
+            "value": 1
+          },
+          {
+            "id": 415,
+            "name": "발견",
+            "value": 1
+          },
+          {
+            "id": 476,
+            "name": "복수 직업",
+            "value": 136
+          },
+          {
+            "id": 1635,
+            "name": "주문 속성",
+            "value": 1
+          },
+          {
+            "id": 1650,
+            "name": "연구 발견 시각 효과",
+            "value": 1
+          }
+        ],
+        "art": "art/SCH_270.png"
+      }
+    }
+  }
+}

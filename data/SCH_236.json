@@ -11,57 +11,6 @@
     "text": "<b>주문폭주:</b><br></br>그 주문을 내 손으로<br></br>다시 가져옵니다.",
     "attack": 2,
     "health": 3,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "이 카드가 시험에 나올지도 몰라.",
-    "spellSchool": "",
-    "portrait": "HS20-061.tif:55d5d8a85a25403fb02fbafef430cca8",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 2
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1427,
-        "name": "주문폭주",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_236.png"
+    "classes": []
   }
 }

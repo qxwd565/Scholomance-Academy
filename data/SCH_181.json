@@ -11,67 +11,6 @@
     "text": "<b>전투의 함성:</b><br></br>내 손과 덱에 있는<br></br>무작위 악마를 소환합니다.",
     "attack": 5,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "악마 하나가 모든 일을 도맡아 해도 나머지는 같은 학점을 받겠죠.",
-    "spellSchool": "",
-    "portrait": "HS20-021.tif:0d9621974067431bb541eb2dce61af5a",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 5
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 8
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 2589,
-        "name": "간판 카드 존재",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_181.png"
+    "classes": []
   }
 }

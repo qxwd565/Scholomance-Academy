@@ -9,59 +9,7 @@
     "collectible": true,
     "cost": 3,
     "text": "<b>모든</b> 하수인에게<br></br>피해를 $2 줍니다.<br></br>영혼 파편을 내 덱에<br></br>둘 섞어 넣습니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"이 학교에는 무서운 괴담이 있어. 밤만 되면 수위 아저씨가 야구 방망이를 들고 다닌다고 말이야.\"",
     "spellSchool": "SHADOW",
-    "portrait": "HS20-113.tif:abbe304052524c44bb49014602d98782",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 9
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1452,
-        "name": "수집품 관련 카드 데이터베이스 ID",
-        "value": 59723
-      },
-      {
-        "id": 1590,
-        "name": "게임 태그 1590",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_307.png"
+    "classes": []
   }
 }

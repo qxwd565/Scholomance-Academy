@@ -9,49 +9,6 @@
     "collectible": true,
     "cost": 1,
     "text": "내 덱에서 <b>추방자</b> 카드를 뽑습니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "타임 어택에 없어서는 안될 기술.",
-    "spellSchool": "",
-    "portrait": "HS20-030.tif:a8303ec5a4e448b28e05170442bb5cbc",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1333,
-        "name": "추방자",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_422.png"
+    "classes": []
   }
 }

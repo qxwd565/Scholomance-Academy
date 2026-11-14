@@ -11,84 +11,10 @@
     "text": "<b>죽음의 메아리:</b><br></br>기본 토템 넷을<br></br>모두 소환합니다.<br></br><b>과부하:</b> (1)",
     "attack": 5,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "걷잡을 수 없이 커져버린 미술 과제입니다.",
-    "spellSchool": "",
-    "portrait": "HS20-063.tif:f8d393d750844780ab0201e98644be48",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 5
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 8
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 21
-      },
-      {
-        "id": 201,
-        "name": "진영",
-        "value": 3
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 215,
-        "name": "과부하",
-        "value": 1
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 330,
-        "name": "효과 생성 시각 효과",
-        "value": 0
-      },
-      {
-        "id": 331,
-        "name": "효과 지속 시각 효과",
-        "value": 0
-      }
-    ],
     "races": [
       "TOTEM"
     ],
     "race": "토템",
-    "classes": [],
-    "art": "art/SCH_615.png"
+    "classes": []
   }
 }

@@ -9,52 +9,9 @@
     "collectible": true,
     "cost": 5,
     "text": "카드를 2장 뽑습니다. 내 무기의 공격력만큼 비용이 감소합니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "허수아비의 이름이 땡땡이라는군요.",
-    "spellSchool": "",
-    "portrait": "HS20-072.tif:f22e7eac7864406eae4eac36faf82d50",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 576
-      }
-    ],
-    "races": [],
-    "race": "",
     "classes": [
       "ROGUE",
       "WARRIOR"
-    ],
-    "art": "art/SCH_623.png"
+    ]
   }
 }

@@ -9,49 +9,7 @@
     "collectible": true,
     "cost": 5,
     "text": "하수인에게<br></br>+8/+8을 부여합니다.<br></br>그 하수인은 이번 턴에<br></br>영웅을 공격할 수 없습니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "성기사는 명예롭게 싸운다네! 그러니 이번 턴에 명치는 때리지 않을 것이네... 다음 턴에 두고 보세!",
     "spellSchool": "HOLY",
-    "portrait": "HS20-010.tif:9154f744f56c4835b8b025ce41946e26",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 5
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_138.png"
+    "classes": []
   }
 }

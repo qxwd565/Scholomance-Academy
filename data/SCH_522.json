@@ -11,65 +11,9 @@
     "text": "<b>전투의 함성:</b> 내 무기의 공격력과 같은 비용의 무작위 하수인을 소환합니다.",
     "attack": 4,
     "health": 4,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "어떤 하수인이 나올지 칼 같이 예상해야 합니다.",
-    "spellSchool": "",
-    "portrait": "HS20-074.tif:8cfd978f06e2424ab5de2d81cbb9fcb6",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 218,
-        "name": "전투의 함성",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 576
-      }
-    ],
-    "races": [],
-    "race": "",
     "classes": [
       "ROGUE",
       "WARRIOR"
-    ],
-    "art": "art/SCH_522.png"
+    ]
   }
 }

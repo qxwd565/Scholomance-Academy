@@ -11,69 +11,6 @@
     "text": "<b>도발</b>, <b>죽음의 메아리:</b><br></br>비용이 3인 무작위<br></br>야수를 소환합니다.",
     "attack": 4,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "A+등급 여물을 얻기 위해 한 걸음 더 나아갑니다.",
-    "spellSchool": "",
-    "portrait": "HS20-047.tif:a0ebaa465c7c4cad844a0b04e2fcd679",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 5
-      },
-      {
-        "id": 190,
-        "name": "도발",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 3
-      },
-      {
-        "id": 217,
-        "name": "죽음의 메아리",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 6
-      }
-    ],
     "races": [
       "BEAST"
     ],
@@ -81,7 +18,6 @@
     "classes": [
       "DRUID",
       "HUNTER"
-    ],
-    "art": "art/SCH_244.png"
+    ]
   }
 }

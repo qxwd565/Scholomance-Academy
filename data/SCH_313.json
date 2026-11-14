@@ -11,64 +11,10 @@
     "text": "<b>주문폭주:</b><br></br>다른 <b>모든</b> 하수인에게<br></br>피해를 2 줍니다.",
     "attack": 2,
     "health": 5,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"내 수업을 좋아한다면 예술 치료사인 우리 언니랑, 운전 기사인 아빠랑, 가정부인 엄마도 좋아할 거야.\"",
-    "spellSchool": "",
-    "portrait": "HS20-156.tif:21a43e28490f442eb1a6971609c00c8b",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 5
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1427,
-        "name": "주문폭주",
-        "value": 1
-      }
-    ],
     "races": [
       "DRAENEI"
     ],
     "race": "드레나이",
-    "classes": [],
-    "art": "art/SCH_313.png"
+    "classes": []
   }
 }

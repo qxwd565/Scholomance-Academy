@@ -10,59 +10,6 @@
     "text": "",
     "attack": 2,
     "health": 2,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS20-165.tif:4d1e784074aa4c9aad8aedfdf0e642f4",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 2
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 2
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 0
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 2
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 21
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 130
-      },
-      {
-        "id": 2831,
-        "name": "게임 태그 2831",
-        "value": 1
-      }
-    ],
     "races": [
       "TOTEM"
     ],
@@ -70,7 +17,6 @@
     "classes": [
       "DRUID",
       "SHAMAN"
-    ],
-    "art": "art/SCH_612t.png"
+    ]
   }
 }

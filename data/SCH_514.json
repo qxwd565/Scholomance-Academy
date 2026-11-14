@@ -9,52 +9,10 @@
     "collectible": true,
     "cost": 0,
     "text": "내 영웅에게 피해를<br></br>$3 줍니다. 이번 게임에서<br></br>죽은 무작위 아군 하수인<br></br>둘을 내 손으로 가져옵니다.",
-    "attack": 0,
-    "health": 0,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "엄밀히 말하자면, 매우 늦게 치료해준 겁니다.",
     "spellSchool": "SHADOW",
-    "portrait": "HS20-015.tif:20dbb8df160f49129ecd70576a44567f",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 5
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 288
-      },
-      {
-        "id": 1635,
-        "name": "주문 속성",
-        "value": 6
-      }
-    ],
-    "races": [],
-    "race": "",
     "classes": [
       "PRIEST",
       "WARLOCK"
-    ],
-    "art": "art/SCH_514.png"
+    ]
   }
 }

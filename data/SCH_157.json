@@ -11,57 +11,6 @@
     "text": "<b>주문폭주:</b><br></br>같은 비용의 무작위 주문을 시전합니다.",
     "attack": 1,
     "health": 6,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "혹시나 가마솥 안의 내용물을 알아채셨다면 사과를 드립니다.",
-    "spellSchool": "",
-    "portrait": "HS20-020.tif:10a50e413b714325a06ed3e8bee9ebb4",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 3
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 1427,
-        "name": "주문폭주",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_157.png"
+    "classes": []
   }
 }

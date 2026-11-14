@@ -11,69 +11,6 @@
     "text": "<b>주문폭주:</b> 내 덱에 있는 주문을 시전합니다. <i>(가능하다면 이 하수인을 대상으로 선택)</i>",
     "attack": 3,
     "health": 6,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "책이 두꺼울수록 아플 테니 조심하세요.",
-    "spellSchool": "",
-    "portrait": "HS20-103.tif:03ec1efc5f944f7493e788a50df85b5e",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 5
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 2
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 48
-      },
-      {
-        "id": 1427,
-        "name": "주문폭주",
-        "value": 1
-      }
-    ],
     "races": [
       "DRAENEI"
     ],
@@ -81,7 +18,6 @@
     "classes": [
       "PALADIN",
       "PRIEST"
-    ],
-    "art": "art/SCH_141.png"
+    ]
   }
 }

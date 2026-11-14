@@ -10,49 +10,6 @@
     "text": "",
     "attack": 1,
     "health": 1,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS20-050.tif:1256df3627f64a568a6c92e4731bf36d",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 1
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 3
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 20
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 6
-      }
-    ],
     "races": [
       "BEAST"
     ],
@@ -60,7 +17,6 @@
     "classes": [
       "DRUID",
       "HUNTER"
-    ],
-    "art": "art/SCH_617t.png"
+    ]
   }
 }

@@ -11,75 +11,9 @@
     "text": "내가 하수인을 낸 후에,<br></br>그 하수인을 처치하고<br></br>4/4 낙제한 학생을<br></br>소환합니다.",
     "attack": 3,
     "health": 6,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"이 교수님 수업에서 낙제하지 않은 학생이 손에 꼽힌다고 소문이 자자해.\"",
-    "spellSchool": "",
-    "portrait": "HS20-111.tif:772363dc0b0e4dc682004749a7983ea4",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 6
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 3
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 288
-      },
-      {
-        "id": 1452,
-        "name": "수집품 관련 카드 데이터베이스 ID",
-        "value": 61092
-      }
-    ],
-    "races": [],
-    "race": "",
     "classes": [
       "PRIEST",
       "WARLOCK"
-    ],
-    "art": "art/SCH_126.png"
+    ]
   }
 }

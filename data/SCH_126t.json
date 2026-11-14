@@ -10,49 +10,6 @@
     "text": "",
     "attack": 4,
     "health": 4,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "",
-    "spellSchool": "",
-    "portrait": "HS20-112.tif:2dec37ac9d7f45b6af0d2c88d52c8a77",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 4
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 6
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 11
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 476,
-        "name": "복수 직업",
-        "value": 288
-      }
-    ],
     "races": [
       "UNDEAD"
     ],
@@ -60,7 +17,6 @@
     "classes": [
       "PRIEST",
       "WARLOCK"
-    ],
-    "art": "art/SCH_126t.png"
+    ]
   }
 }

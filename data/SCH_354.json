@@ -11,64 +11,10 @@
     "text": "내 턴이 끝날 때,<br></br>모든 적 하수인으로부터<br></br>공격력과 생명력을 1씩<br></br>가져옵니다.",
     "attack": 10,
     "health": 10,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "내 1/1 공허 깜찍이는 어떻게 된 거야?!",
-    "spellSchool": "",
-    "portrait": "HS20-037.tif:5a3941be9bca4644892faa382581d0e5",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 10
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 10
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 9
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 14
-      },
-      {
-        "id": 200,
-        "name": "종족",
-        "value": 15
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 4
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
     "races": [
       "DEMON"
     ],
     "race": "악마",
-    "classes": [],
-    "art": "art/SCH_354.png"
+    "classes": []
   }
 }

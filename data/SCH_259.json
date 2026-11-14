@@ -10,58 +10,7 @@
     "cost": 1,
     "text": "내 턴이 시작될 때,<br></br>내 다음 카드를 봅니다. 내구도를 1 잃고 그 카드를 내 덱 맨 아래에 놓을 수 있습니다.",
     "attack": 0,
-    "health": 0,
     "durability": 4,
-    "armor": 0,
-    "flavor": "점술의 구슬이라고도 할 수 있겠네요.",
-    "spellSchool": "",
-    "portrait": "HS20-100.tif:93e05e7b943745a19d9914ac2a64ea04",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 32,
-        "name": "발동 효과 표시",
-        "value": 1
-      },
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 4
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 114,
-        "name": "전설 속성",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 12
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 7
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 5
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_259.png"
+    "classes": []
   }
 }

@@ -11,57 +11,6 @@
     "text": "<b>주문 공격력 +1</b>",
     "attack": 1,
     "health": 3,
-    "durability": 0,
-    "armor": 0,
-    "flavor": "\"교수님, 노움이 제 숙제를 다 태워버렸어요!\"",
-    "spellSchool": "",
-    "portrait": "HS20-007.tif:d23ee93c10ca46379c01771fddaada6a",
-    "set": "SCHOLOMANCE",
-    "nativeTags": [
-      {
-        "id": 45,
-        "name": "생명력",
-        "value": 3
-      },
-      {
-        "id": 47,
-        "name": "공격력",
-        "value": 1
-      },
-      {
-        "id": 48,
-        "name": "마나 비용",
-        "value": 1
-      },
-      {
-        "id": 192,
-        "name": "주문 공격력",
-        "value": 1
-      },
-      {
-        "id": 199,
-        "name": "직업",
-        "value": 4
-      },
-      {
-        "id": 202,
-        "name": "카드 유형",
-        "value": 4
-      },
-      {
-        "id": 203,
-        "name": "희귀도",
-        "value": 1
-      },
-      {
-        "id": 321,
-        "name": "수집 가능",
-        "value": 1
-      }
-    ],
-    "races": [],
-    "race": "",
-    "classes": [],
-    "art": "art/SCH_310.png"
+    "classes": []
   }
 }
